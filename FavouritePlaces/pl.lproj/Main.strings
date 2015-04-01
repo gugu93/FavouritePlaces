@@ -1,0 +1,66 @@
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "2ih-Cu-4wu"; */
+"2ih-Cu-4wu.text" = "Subtitle";
+
+/* Class = "IBUITextField"; text = "GPS X"; ObjectID = "4sD-vk-aQt"; */
+"4sD-vk-aQt.text" = "GPS X";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "7BQ-oW-hFe"; */
+"7BQ-oW-hFe.title" = "Back";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "7IN-kP-A5d"; */
+"7IN-kP-A5d.title" = "Cofnij";
+
+/* Class = "IBUIButton"; normalTitle = "Share via SMS"; ObjectID = "9qa-hT-e0P"; */
+"9qa-hT-e0P.normalTitle" = "Wyślij przez SMSa";
+
+/* Class = "IBUIButton"; normalTitle = "Favourite places"; ObjectID = "CZH-FB-3pc"; */
+"CZH-FB-3pc.normalTitle" = "Ulubione miejsca";
+
+/* Class = "IBUINavigationItem"; title = "Favourite Places"; ObjectID = "HvM-Xp-Wzi"; */
+"HvM-Xp-Wzi.title" = "Ulubione miejsca";
+
+/* Class = "IBUINavigationItem"; title = "Map of places"; ObjectID = "LxT-tw-com"; */
+"LxT-tw-com.title" = "Mapa miejsc";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "OWz-4J-Hui"; */
+"OWz-4J-Hui.text" = "Tytuł";
+
+/* Class = "IBUIBarButtonItem"; title = "Add place"; ObjectID = "QLU-8S-vx5"; */
+"QLU-8S-vx5.title" = "Dodaj miejsce";
+
+/* Class = "IBUITextView"; text = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie,\nKto cię stracił. Dziś piękność twą w całej ozdobie\nWidzę i opisuję, bo tęsknię po tobie."; ObjectID = "Qex-4U-0yR"; */
+"Qex-4U-0yR.text" = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie,\nKto cię stracił. Dziś piękność twą w całej ozdobie\nWidzę i opisuję, bo tęsknię po tobie.";
+
+/* Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "TKh-RQ-pjZ"; */
+"TKh-RQ-pjZ.normalTitle" = "Mapa";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "VQ7-Lw-IMR"; */
+"VQ7-Lw-IMR.title" = "Cofnij";
+
+/* Class = "IBUITextField"; text = "Name of place"; ObjectID = "Vzw-MZ-JfC"; */
+"Vzw-MZ-JfC.text" = "Nazwa miejsca";
+
+/* Class = "IBUIButton"; normalTitle = "About"; ObjectID = "fQg-Ju-Q8t"; */
+"fQg-Ju-Q8t.normalTitle" = "O aplikacji";
+
+/* Class = "IBUITextField"; placeholder = "GPS X"; ObjectID = "fgv-0T-Kao"; */
+"fgv-0T-Kao.placeholder" = "GPS X";
+
+/* Class = "IBUITextView"; text = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie, Kto cię stracił. Dziś piękność twą w całej ozdobie. Widzę i opisuję, bo tęsknię po tobie."; ObjectID = "kBj-Lu-pWW"; */
+"kBj-Lu-pWW.text" = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie, Kto cię stracił. Dziś piękność twą w całej ozdobie. Widzę i opisuję, bo tęsknię po tobie.";
+
+/* Class = "IBUITextField"; text = "GPS Y"; ObjectID = "ol5-Yu-A4q"; */
+"ol5-Yu-A4q.text" = "GPS Y";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "rRW-HQ-udu"; */
+"rRW-HQ-udu.title" = "Cofnij";
+
+/* Class = "IBUITextField"; placeholder = "GPS Y"; ObjectID = "rVj-OL-AEd"; */
+"rVj-OL-AEd.placeholder" = "GPS Y";
+
+/* Class = "IBUIBarButtonItem"; title = "Locate"; ObjectID = "s69-6S-Kve"; */
+"s69-6S-Kve.title" = "Lokalizuj";
+
+/* Class = "IBUITextField"; placeholder = "Name of place"; ObjectID = "ys6-E5-ALn"; */
+"ys6-E5-ALn.placeholder" = "Nazwa miejsca";

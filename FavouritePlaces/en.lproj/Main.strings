@@ -1,0 +1,57 @@
+
+/* Class = "IBUILabel"; text = "Subtitle"; ObjectID = "2ih-Cu-4wu"; */
+"2ih-Cu-4wu.text" = "Subtitle";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "7BQ-oW-hFe"; */
+"7BQ-oW-hFe.title" = "Back";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "7IN-kP-A5d"; */
+"7IN-kP-A5d.title" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "Share via SMS"; ObjectID = "9qa-hT-e0P"; */
+"9qa-hT-e0P.normalTitle" = "Share via SMS";
+
+/* Class = "IBUIButton"; normalTitle = "Favourite places"; ObjectID = "CZH-FB-3pc"; */
+"CZH-FB-3pc.normalTitle" = "Favourite places";
+
+/* Class = "IBUINavigationItem"; title = "Favourite Places"; ObjectID = "HvM-Xp-Wzi"; */
+"HvM-Xp-Wzi.title" = "Favourite Places";
+
+/* Class = "IBUINavigationItem"; title = "Map of places"; ObjectID = "LxT-tw-com"; */
+"LxT-tw-com.title" = "Map of places";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "OWz-4J-Hui"; */
+"OWz-4J-Hui.text" = "Title";
+
+/* Class = "IBUIBarButtonItem"; title = "Add place"; ObjectID = "QLU-8S-vx5"; */
+"QLU-8S-vx5.title" = "Add place";
+
+/* Class = "IBUITextView"; text = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie,\nKto cię stracił. Dziś piękność twą w całej ozdobie\nWidzę i opisuję, bo tęsknię po tobie."; ObjectID = "Qex-4U-0yR"; */
+"Qex-4U-0yR.text" = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie,\nKto cię stracił. Dziś piękność twą w całej ozdobie\nWidzę i opisuję, bo tęsknię po tobie.";
+
+/* Class = "IBUIButton"; normalTitle = "Map"; ObjectID = "TKh-RQ-pjZ"; */
+"TKh-RQ-pjZ.normalTitle" = "Map";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "VQ7-Lw-IMR"; */
+"VQ7-Lw-IMR.title" = "Back";
+
+/* Class = "IBUIButton"; normalTitle = "About"; ObjectID = "fQg-Ju-Q8t"; */
+"fQg-Ju-Q8t.normalTitle" = "About";
+
+/* Class = "IBUITextField"; placeholder = "GPS X"; ObjectID = "fgv-0T-Kao"; */
+"fgv-0T-Kao.placeholder" = "GPS X";
+
+/* Class = "IBUITextView"; text = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie, Kto cię stracił. Dziś piękność twą w całej ozdobie. Widzę i opisuję, bo tęsknię po tobie."; ObjectID = "kBj-Lu-pWW"; */
+"kBj-Lu-pWW.text" = "Litwo, Ojczyzno moja! ty jesteś jak zdrowie;\nIle cię trzeba cenić, ten tylko się dowie, Kto cię stracił. Dziś piękność twą w całej ozdobie. Widzę i opisuję, bo tęsknię po tobie.";
+
+/* Class = "IBUIBarButtonItem"; title = "Back"; ObjectID = "rRW-HQ-udu"; */
+"rRW-HQ-udu.title" = "Back";
+
+/* Class = "IBUITextField"; placeholder = "GPS Y"; ObjectID = "rVj-OL-AEd"; */
+"rVj-OL-AEd.placeholder" = "GPS Y";
+
+/* Class = "IBUIBarButtonItem"; title = "Locate"; ObjectID = "s69-6S-Kve"; */
+"s69-6S-Kve.title" = "Locate";
+
+/* Class = "IBUITextField"; placeholder = "Name od place"; ObjectID = "ys6-E5-ALn"; */
+"ys6-E5-ALn.placeholder" = "Name od place";
